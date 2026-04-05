@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Making friends as an adult is impossibly hard
+slug: making-friends-as-an-adult-is
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: making-friends-as-an-adult-is.msx.dev
